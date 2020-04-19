@@ -1,5 +1,8 @@
 # Mastering Vim
 
+https://gihyo.jp/book/2020/978-4-297-11169-4
+マスタリング Vim のメモ
+
 <a href="https://www.packtpub.com/application-development/mastering-vim?utm_source=github&utm_medium=repository&utm_campaign=9781789341096"><img src="https://www.packtpub.com/sites/default/files/cover_11044.png" alt="Mastering Vim" height="256px" align="right"></a>
 
 This is the code repository for [Mastering Vim](https://www.packtpub.com/application-development/mastering-vim?utm_source=github&utm_medium=repository&utm_campaign=9781789341096), published by Packt.
@@ -48,15 +51,15 @@ With the following software and hardware list you can run all code files present
 
 ### Software and Hardware List
 
-| Chapter | Software required | OS required |
-| -------- | ------------------------------------ | ----------------------------------- |
-| 1 | Samba 4.x Server Software | Windows, Mac OS X, and Linux (Any) |
+| Chapter | Software required         | OS required                        |
+| ------- | ------------------------- | ---------------------------------- |
+| 1       | Samba 4.x Server Software | Windows, Mac OS X, and Linux (Any) |
 
 ### Related products
 
-* Mastering Visual Studio 2017 [[Packt]](https://india.packtpub.com/in/application-development/mastering-visual-studio-2017?utm_source=github&utm_medium=repository&utm_campaign=) [[Amazon]](https://www.amazon.com/dp/1787281906)
+- Mastering Visual Studio 2017 [[Packt]](https://india.packtpub.com/in/application-development/mastering-visual-studio-2017?utm_source=github&utm_medium=repository&utm_campaign=) [[Amazon]](https://www.amazon.com/dp/1787281906)
 
-* The Modern C# Challenge  [[Packt]](https://india.packtpub.com/in/application-development/modern-c-challenge-0?utm_source=github&utm_medium=repository&utm_campaign=) [[Amazon]](https://www.amazon.com/dp/1789535425)
+- The Modern C# Challenge [[Packt]](https://india.packtpub.com/in/application-development/modern-c-challenge-0?utm_source=github&utm_medium=repository&utm_campaign=) [[Amazon]](https://www.amazon.com/dp/1789535425)
 
 ## Get to Know the Author
 
