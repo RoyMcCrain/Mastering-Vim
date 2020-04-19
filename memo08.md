@@ -50,3 +50,5 @@ echo animal_names
 Vim script 難しいから見直す。
 
 ローカルのプラグイン置き場がわからなかった(neovim)
+
+`~/.vim/ => ~/.config/nvim` らしいです。
